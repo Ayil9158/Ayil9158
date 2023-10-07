@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayil9158
+- 👋 Hi, I’m @Ayil9158, an engineering student
 - 👀 I’m interested in programming, especially in the Python language, still learning about it.
 - 🌱 I created this account so I can save my work and have a kind of record of how I’m progressing in my career (in terms of programming)
 - 💞️ I’m open to collaborating with everyone (as long as time allows, of course)
