@@ -3,7 +3,7 @@ Hi, I'm @Ayil9158, a computer systems engineering student, so as such I am inter
 
 Spanish's my first language  but I also have an intermediate understanding of English (if you don't speak either one, don't worry, Google Translate will do the job so we can communicate lol).
 
-I created this account so I can save my work and have a kind of record of how I'm progressing in my career (in terms of programming).
+I created this account so I can save my work and have a kind of record of how I'm progressing in my career.
 
 I'm open to collaborating with everyone (as long as time allows, of course).
 
